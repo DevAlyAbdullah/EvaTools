@@ -1,0 +1,17 @@
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\bin\Release\net7.0-windows\EvaTools.exe
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\bin\Release\net7.0-windows\EvaTools.deps.json
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\bin\Release\net7.0-windows\EvaTools.runtimeconfig.json
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\bin\Release\net7.0-windows\EvaTools.dll
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\bin\Release\net7.0-windows\EvaTools.pdb
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\obj\Release\net7.0-windows\EvaTools.csproj.AssemblyReference.cache
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\obj\Release\net7.0-windows\EvaTools.csproj.GenerateResource.cache
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\obj\Release\net7.0-windows\EvaTools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\obj\Release\net7.0-windows\EvaTools.AssemblyInfoInputs.cache
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\obj\Release\net7.0-windows\EvaTools.AssemblyInfo.cs
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\obj\Release\net7.0-windows\EvaTools.csproj.CoreCompileInputs.cache
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\obj\Release\net7.0-windows\EvaTools.dll
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\obj\Release\net7.0-windows\refint\EvaTools.dll
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\obj\Release\net7.0-windows\EvaTools.pdb
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\obj\Release\net7.0-windows\EvaTools.genruntimeconfig.cache
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\obj\Release\net7.0-windows\ref\EvaTools.dll
+D:\Workstation\From Scratch Applications\D_EvaTools\EvaTools\obj\Release\net7.0-windows\EvaTools.MAIN.resources
